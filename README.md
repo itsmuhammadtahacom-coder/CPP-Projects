@@ -1,2 +1,24 @@
 # CPP-Projects
-Personal C++ project repository showcasing my learning journey, problem-solving skills, and hands-on implementations of core programming concepts.
+
+A collection of C++ projects showcasing my programming journey, 
+problem-solving skills, and hands-on implementation of core 
+programming concepts.
+
+## Projects
+
+### Hangman Game
+A console-based Hangman game where the player guesses letters 
+to reveal a hidden word before running out of attempts.
+
+## About Me
+I am a passionate C++ programmer constantly learning and 
+improving my coding skills through practical projects.
+
+## Skills Used
+- C++ Programming
+- Problem Solving
+- Logic Building
+- Object Oriented Programming (OOP)
+
+## Connect With Me
+- GitHub: itsmuhammadtahacom-coder
