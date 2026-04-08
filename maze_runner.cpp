@@ -20,7 +20,6 @@ void ForNextPosition(int value, int& nextRow, int& nextCol)
 
 int main()
 {
-    cout << "Qunoot Ahmad (049) \t Wajeeha Fatima (006) \t Abdul Rehman (034)";
 
     int maze[5][5] = {
         {34, 21, 32, 41, 25},
