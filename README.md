@@ -18,10 +18,14 @@ improving my coding skills through practical projects.
 - C++ Programming
 - Problem Solving
 - Logic Building
-- Object Oriented Programming (OOP)
+- Loops and Conditions
+- String & Array Manipulation
+- Functions
+- Console I/O (cin/cout)
 
 ## Connect With Me
 - GitHub: itsmuhammadtahacom-coder
 
 ## Feel free to contact
 www.linkedin.com/in/muhammad-taha-10351a37a
+itsmuhammadtaha.com@gmail.com
